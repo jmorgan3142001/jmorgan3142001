@@ -36,13 +36,6 @@ django5-forms-fieldset: Maintained this library to support Django 5, enabling de
 
 django5-scheduler: Maintained this library to support Django 5, enabling developers to easily create schedules.
 
-📊 GitHub Stats
-
-<div align="center">
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Djmorgan3142001%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue"/>
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djmorgan3142001%26layout%3Dcompact%26theme%3Dradical"/>
-</div>
-
 📫 Connect with Me
 
 I am always open to discussing .NET, Django, and TypeScript development, open-source contributions, and new opportunities.
