@@ -4,6 +4,10 @@ Full Stack Software Engineer | .NET, Django & Angular Specialist
 
 I am a Full Stack Developer with deep expertise in the Microsoft ecosystem (C#, ASP.NET, SQL), Django, and modern front-end frameworks (Angular, Flutter). I specialize in building scalable, production-grade applications that solve real business problems, with a strong focus on clean architecture and user experience.
 
+🛠️ Tech Stack & Tools
+
+Languages & Frameworks
+
 🚀 Featured Production Project
 
 🏠 Lawless Lowcountry Living
@@ -41,7 +45,7 @@ django5-scheduler: Maintained this library to support Django 5, enabling develop
 
 📫 Connect with Me
 
-I am always open to discussing .NET, Django, and Typescript development, open-source contributions, and new opportunities.
+I am always open to discussing .NET, Django, and TypeScript development, open-source contributions, and new opportunities.
 
 📧 Email: jmorgan3142001@gmail.com
 
