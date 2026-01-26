@@ -42,12 +42,9 @@ django5-forms-fieldset: Maintained this library to support Django 5, enabling de
 
 django5-scheduler: Updated library to support Django 5, enabling robust scheduling capabilities within the Django ORM.
 
-📊 GitHub Stats
-<p align="left"> <img src="https://github-readme-stats.vercel.orgg/api?username=jmorgan3142001&show_icons=true&theme=radical&hide_border=true" alt="Jake's GitHub Stats" width="48%" /> <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Djmorgan3142001%26layout%3Dcompact%26theme%3Dradical%26hide_border%3Dtrue" alt="Top Languages" width="48%" /> </p>
-
 📫 Connect with Me
 I am always open to discussing Distributed Systems, .NET Performance, and Open Source.
 
 📧 Email: jmorgan3142001@gmail.com
 
-🌐 Portfolio: jake-morgan.dev
+🌐 Portfolio: <a href="https://jake-morgan.dev" target="_blank">jake-morgan.dev</a>
