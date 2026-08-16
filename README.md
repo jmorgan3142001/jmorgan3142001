@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/jake-morgan-/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-jake--morgan.dev-green.svg)](https://jake-morgan.dev/)
 
-I am a Software Engineer with a passion for **High-Performance Computing** and **Distributed Systems**. While I have deep roots in the Microsoft ecosystem (C#, .NET Core), I specialize in architecting scalable solutions that solve complex data problems. Currently pursuing my **Master's in Computer Science** (Computing Systems specialization), I focus on bridging the gap between theoretical system design and production-grade reliability.
+I am a Software Engineer with a passion for **High-Performance Computing** and **Distributed Systems**. I specialize in architecting scalable solutions that solve complex data problems. Currently pursuing my **Master's in Computer Science** (Computing Systems specialization), I focus on bridging the gap between theoretical system design and production-grade reliability in the cloud and on premesis.
 
 ---
 
